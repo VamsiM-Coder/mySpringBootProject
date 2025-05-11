@@ -39,8 +39,13 @@ Built using Java, Spring MVC, JPA, and Hibernate, with MySQL as the database. AP
 🌐 API Endpoints :
 
   > Method	Endpoint	Description
+
   > POST	/students	Create new student
+
   > GET	/students	Retrieve all students
+
   > GET	/students/{id}	Get student by ID
+
   > PUT	/students/{id}	Update student by ID
+
   > DELETE	/students/{id}	Delete student by ID
